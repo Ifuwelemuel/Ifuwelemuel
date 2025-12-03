@@ -1,3 +1,5 @@
+
+
 # Hey, I’m Lemuel 👋
 
 **Engineer building at the edge of ML, robotics, and education.**
@@ -15,10 +17,11 @@
 ---
 **Right now**
 
-- Crafting **niche ML projects** in sports, fintech, manufacturing, retail & transport  
+- Co-founded **“Niger Delta AI Climate Watch”** with the **Royal Iwere Foundation**
 - Building an **autonomous surface vehicle** for water-quality monitoring  
 - Scaling an **EdTech platform** for Nigerian schools
 
 **Open to**
 
-ML engineering · data-intensive products · robotics/embedded collabs · EdTech in Africa  
+AI related projects · robotics/embedded collabs · EdTech in Africa  
+
