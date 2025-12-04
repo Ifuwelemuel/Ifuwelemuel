@@ -8,7 +8,7 @@
 - 🧠 I design **end-to-end ML systems** – data → model → API → monitoring  
 - 🤖 I prototype **robots & ASVs** with ROS2, Raspberry Pi, Arduino, motor drivers & encoders  
 - 🎓 I build **offline-first EdTech** for Nigerian primary schools (video + quizzes + AI helpers)  
-- 🌐 I experiment with **micro-ISP setups** for low-cost student Wi-Fi
+- 🌐 I experiment with **micro-ISP setups** for low-cost student Wi-Fi.
 ---
 
 <h3 align="left">Languages and Tools:</h3>
